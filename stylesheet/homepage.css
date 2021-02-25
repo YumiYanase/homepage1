@@ -27,7 +27,7 @@ header {
 
 
 #first-block {
-  background-image: url("../images/asai.jpg");
+  background-image: url("../images/image0.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -35,7 +35,7 @@ header {
 }
 
 .info-container {
-  background-color: rgba(255, 255, 255, 1);
+  background-color: rgba(156, 247, 183, 0.475);
   height: 600px;
   width: 500px;
   display: flex;
@@ -120,6 +120,7 @@ span{
   font-size: 15px;
   height: 44px;
   width:380px;
+  margin-bottom: 12px;
 }
 
 .mybtn-fb {
